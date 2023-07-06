@@ -8,6 +8,10 @@ A chat app created using react and sass for UI and firebase for authentication a
 ## Demo
 
 https://chat-app-vw.netlify.app/
+
+use login credentials:
+email: `user@gmail.com`
+password: `userlogin`
 ## Acknowledgements
 
  - [Thanks to Youtube](https://youtu.be/k4mjF4sPITE)
